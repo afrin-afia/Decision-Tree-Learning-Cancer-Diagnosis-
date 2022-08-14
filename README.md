@@ -1,2 +1,5 @@
 # Decision-Tree-Learning-Cancer-Diagnosis-
-Decision tree algorithm for breast cancer diagnosis. Dataset attached.
+
+A decision tree learner has been implemented from scratch in C++.
+
+'Assignment1.pdf' file contains detailed information regarding the project.
